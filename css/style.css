@@ -3,7 +3,12 @@
     position: relative;
     background: #000 url("jumbotron-bg.png") center center;
     width: 100%;
+    background-color: pink !important;
     height: 100%;
     background-size: cover;
     overflow: hidden;
+}
+
+.mid-section-hdgs{
+	color: orange;
 }
